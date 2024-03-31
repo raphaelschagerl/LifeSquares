@@ -20,7 +20,9 @@ We welcome contributions that enhance the functionality and user experience of L
 For guidance and support, refer to the 'Help' worksheet within the Excel file or raise an issue here on GitHub.
 
 ## License
-This project is released under [appropriate license], allowing for both personal use and contribution.
+
+This project is licensed under the MIT License. For more details, see [MIT License](https://opensource.org/licenses/MIT).
+
 
 ## Acknowledgments
 Credit to Michal Korzonek for the original concept as detailed in "Minimalist Journaling: A Fun and Effective Tool for Tremendous Habit Change". This Excel-based adaptation aims to translate the insightful manual practice into an accessible digital format, empowering users to harness consistency in their habit-building journey.

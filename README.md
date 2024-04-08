@@ -1,5 +1,9 @@
 # LifeSquares Journal: A Habit Dashboard for Personal Growth
 
+## Progress
+
+**Progress:** ![20%](https://progress-bar.dev/20)
+
 ## About the System
 LifeSquares Journal is an innovative Excel-based system inspired by [the minimalist journaling method created by Michal Korzonek](https://betterhumans.pub/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28). It's a visual and intuitive habit-tracking tool designed to motivate and maintain consistency in personal development. Each square on the Excel sheet represents a day in your life, waiting to be filled with achievements, goals, and reflections. With this tool, you can visually track your progress towards consistency, the cornerstone of success as highlighted by the experiences of highly successful individuals.
 

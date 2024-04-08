@@ -1,7 +1,5 @@
 # LifeSquares Journal: A Habit Dashboard for Personal Growth
 
-## Progress
-
 **Progress:** ![20%](https://progress-bar.dev/20)
 
 ## About the System

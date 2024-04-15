@@ -1,6 +1,6 @@
 # LifeSquares Journal: A Habit Dashboard for Personal Growth
 
-**Progress:** ![30%](https://progress-bar.dev/30)
+**Progress:** ![40%](https://progress-bar.dev/40)
 
 ![A Sample LifeSquare](https://github.com/raphaelschagerl/LifeSquares/blob/main/images/Square_in_Your_Life.png)
 
